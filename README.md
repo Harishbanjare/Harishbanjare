@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harishbanjare
-- 👀 I’m interested in FULL STACK DEVELOPER
-- 💞️ I’m currently looking for a job oppurtunities in software developer 
+- 💻 I’m interested in FULL STACK DEVELOPER
+- 📱  I'm currently looking for a job oppurtunities in software developer 
 - 📫 How to reach me Email-
 - banjareharish87@gmail.com
 - CONTACT ME-+917692841888
