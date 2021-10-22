@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @Harishbanjare
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Harishbanjare/Harishbanjare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in FULL STACK DEVELOPER
+- 💞️ I’m currently looking for a job oppurtunities in software developer 
+- 📫 How to reach me Email-
+- banjareharish87@gmail.com
+- CONTACT ME-+917692841888
